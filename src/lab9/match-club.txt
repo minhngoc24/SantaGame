@@ -1,6 +1,0 @@
-Alice Bob Carol David
-President VP Secretary Treasurer
-Alice President Treasurer
-Bob Secretary President VP
-Carol VP Treasurer
-David President Secretary

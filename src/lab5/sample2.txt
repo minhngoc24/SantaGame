@@ -1,5 +1,0 @@
-Rickman,Alan,89
-Smith,Maggie,96
-Bonham Carter,Helena,77
-Oldman,Gary,92
-Staunton,Imelda,85
